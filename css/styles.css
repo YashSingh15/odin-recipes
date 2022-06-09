@@ -18,3 +18,7 @@ h1.food {
     font-size: 20px;
 }
 
+img {
+    width: auto;
+    height: 650px;
+}
