@@ -35,8 +35,7 @@ p.description {
     font-family: fantasy;
 }
 
-h2.ingredients {
-    font-size: 22px;
+.ingredients {
     font-family: Helvetica, sans-serif;
 }
 
