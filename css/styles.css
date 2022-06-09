@@ -25,11 +25,12 @@ img {
 
 h2.description {
     font-family: cursive;
+    font-size: 25px;
 }
 
 p.description {
     background-color: #dfedf6;
-    font-size: 15px;
+    font-size: 16px;
     font-family: fantasy;
 }
 
@@ -49,7 +50,10 @@ h2.ingredients {
 }
 
 ol.steps {
-    background-color: hwb(195 74% 3%);
+    background-color: hwb(192 89% 1%);
+    font-size: 18px;
+    color: rgb(157, 0, 0);
+    line-height: 1.4;
 }
 
 h2.steps {
