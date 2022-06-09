@@ -48,6 +48,6 @@ h2.ingredients {
     font-size: 18px;
 }
 
-.steps {
+ol.steps {
     background-color: hwb(195 74% 3%);
 }
