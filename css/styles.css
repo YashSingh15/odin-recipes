@@ -51,3 +51,8 @@ h2.ingredients {
 ol.steps {
     background-color: hwb(195 74% 3%);
 }
+
+h2.steps {
+    color: green;
+    font-family: fantasy;
+}
