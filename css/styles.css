@@ -47,3 +47,7 @@ h2.ingredients {
     color: brown;
     font-size: 18px;
 }
+
+.steps {
+    background-color: hwb(195 74% 3%);
+}
