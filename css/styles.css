@@ -28,6 +28,7 @@ h2.description {
     font-size: 25px;
 }
 
+.container .description,
 p.description {
     background-color: #dfedf6;
     font-size: 16px;
