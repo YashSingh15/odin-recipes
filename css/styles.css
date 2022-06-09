@@ -13,7 +13,8 @@ h1.food {
     font-size: 25px;
 }
 
-#foods {
+#food-list {
     background-color:hsl(171, 72%, 80%);
     font-size: 20px;
 }
+
