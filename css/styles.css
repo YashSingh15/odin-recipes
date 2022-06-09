@@ -22,3 +22,7 @@ img {
     width: auto;
     height: 650px;
 }
+
+h2.description {
+    font-family: cursive;
+}
