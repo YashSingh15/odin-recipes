@@ -36,3 +36,13 @@ p.description {
 h2.ingredients {
     font-family: Helvetica, sans-serif;
 }
+
+.monospace {
+    font-family: monospace;
+}
+
+.container .ingredients {
+    background-color: rgb(50, 239, 229);
+    color: brown;
+    font-size: 18px;
+}
